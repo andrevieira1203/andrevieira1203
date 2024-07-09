@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Vieira</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrevieira1203&label=Profile%20views&color=0e75b6&style=flat" alt="andrevieira1203" /> </p>
 
