@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm André Vieira</h1>
+<img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/49e5716eade46e97656d5d6427b11340-1684516178/ANIMATE1_V2/can-make-gif-animated-in-the-form-of-pixel-art.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrevieira1203&label=Profile%20views&color=0e75b6&style=flat" alt="andrevieira1203" /> </p>
 
 - 📫 Personal email: **andrevieira2003@gmail.com**
