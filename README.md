@@ -3,8 +3,5 @@
 
 - 📫 Personal email: **andrevieira2003@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrevieira1203&show_icons=true&locale=en&layout=compact" alt="andrevieira1203" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrevieira1203&" alt="andrevieira1203" /></p>
-
 <h1 align="center">My Work :</h1>
 
