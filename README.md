@@ -1,7 +1,7 @@
 <h1 align="center">André Vieira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrevieira1203&label=Profile%20views&color=0e75b6&style=flat" alt="andrevieira1203" /> </p>
 
-<h3 align="left">Master's student in Data Science at the University of Porto</h3>
+<h5 align="left">Master's student in Data Science at the University of Porto</h5>
 
 - Personal email: **andrevieira2003@gmail.com**
 
